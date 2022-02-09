@@ -1,3 +1,2 @@
 # Skeptic
-this is my first repository 
-yoo wasup my dudes
+this repository is a prototype of a smart contract of a transaction being done between a client and service provider 
